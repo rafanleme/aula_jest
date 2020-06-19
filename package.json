@@ -1,0 +1,28 @@
+{
+  "name": "aula_sequelize_testes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "celebrate": "^12.1.1",
+    "cors": "^2.8.5",
+    "cpf-cnpj-validator": "^1.0.2",
+    "express": "^4.17.1",
+    "multer": "^1.4.2",
+    "mysql2": "^2.1.0",
+    "sequelize": "^5.21.13",
+    "sequelize-cli": "^5.5.1",
+    "uuid": "^7.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
