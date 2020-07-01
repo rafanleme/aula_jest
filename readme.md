@@ -9,3 +9,5 @@ npx sequelize db:migrate
 ```
 
 ### Siga as instruções na aula
+
+[Link para a video aula](https://youtu.be/B1kWb7tWoxs)
